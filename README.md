@@ -65,13 +65,19 @@ I assumed that the API would return always all necesary data for populating scre
 
 # App Screens
 ## Spotlight/Dashboard
-<img src="./readmeImages/dashboardIos.png" alt="Dashboard iOS" height="500"/>
-<img src="./readmeImages/dashboardAndroid.png" alt="Dashboard Android" height="500"/>
+<div style="display: flex; gap: 20px; justify-content: center;">
+    <img src="./readmeImages/dashboardIos.png" alt="Dashboard iOS" height="500"/>
+    <img src="./readmeImages/dashboardAndroid.png" alt="Dashboard Android" height="500"/>
+</div>
 
 ## Movie Details
-<img src="./readmeImages/movieDetailsIos.png" alt="Movie Details iOS" height="500"/>
-<img src="./readmeImages/movieDetailsAndroid.png" alt="Movie Details Android" height="500"/>
+<div style="display: flex; gap: 20px; justify-content: center;">
+    <img src="./readmeImages/movieDetailsIos.png" alt="Movie Details iOS" height="500"/>
+    <img src="./readmeImages/movieDetailsAndroid.png" alt="Movie Details Android" height="500"/>
+</div>
 
 ## Watchlist
-<img src="./readmeImages/watchlistIos.png" alt="Watchlist iOS" height="500"/>
-<img src="./readmeImages/watchlistAndroid.png" alt="Watchlist Android" height="500"/>
+<div style="display: flex; gap: 20px; justify-content: center;">
+    <img src="./readmeImages/watchlistIos.png" alt="Watchlist iOS" height="500"/>
+    <img src="./readmeImages/watchlistAndroid.png" alt="Watchlist Android" height="500"/>
+</div>
