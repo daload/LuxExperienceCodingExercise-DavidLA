@@ -30,7 +30,7 @@ const HeaderWatchlistActionButton = ({ movie }: Props) => {
 
     return (
         <TouchableOpacity onPress={handlePress}>
-            <Icon icon={isMovieInWatchlist ? ICON_MAP.WATCHLIST_REMOVE : ICON_MAP.WATCHLIST_ADD} size='large' />
+            <Icon icon={isMovieInWatchlist ? ICON_MAP.WATCHLIST_REMOVE : ICON_MAP.WATCHLIST_ADD} size='large' color='black'/>
         </TouchableOpacity>
     )
 }
