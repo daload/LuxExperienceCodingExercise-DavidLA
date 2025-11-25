@@ -30,7 +30,7 @@ const AppNavigator = () => {
                     component={HomeStackNavigator} 
                     options={{
                         title: 'Spotlight',
-                        tabBarIcon: ({ color, size }) => (<Icon icon={ICON_MAP.SPOTLIGHT} size='normal' />)
+                        tabBarIcon: ({ color, size }) => (<Icon icon={ICON_MAP.SPOTLIGHT} size='normal' color={color} />)
                     }}
                 />
                 <Tab.Screen 
@@ -38,7 +38,7 @@ const AppNavigator = () => {
                     component={WatchlistStackNavigator} 
                     options={{
                         title: 'Watchlist',
-                        tabBarIcon: ({ color, size }) => (<Icon icon={ICON_MAP.WATCHLIST} size='normal' />)
+                        tabBarIcon: ({ color, size }) => (<Icon icon={ICON_MAP.WATCHLIST} size='normal' color={color} />)
                     }}
                 />
             </Tab.Navigator>
