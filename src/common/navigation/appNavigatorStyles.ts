@@ -4,7 +4,7 @@ import { scale } from 'react-native-size-matters'
 export const appNavigatorStyles = StyleSheet.create({
     tabBar: {
     	paddingVertical: scale(10),
-      	height: scale(90)
+      	height: scale(60)
     },
   	tabLabel: {
    	 	fontSize: scale(12),
