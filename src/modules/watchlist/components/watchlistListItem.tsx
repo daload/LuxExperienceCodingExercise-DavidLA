@@ -41,7 +41,7 @@ const watchlistListItem = ({ movie }: Props) => {
             </View>
             </TouchableOpacity>
             <TouchableOpacity onPress={handleRemoveMovie}>
-                <Icon icon={ICON_MAP.WATCHLIST_REMOVE} size='large' />
+                <Icon icon={ICON_MAP.WATCHLIST_REMOVE} size='large' color='black' />
             </TouchableOpacity>           
         </View>
     )
