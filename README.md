@@ -3,7 +3,7 @@
 
 ## Instructions to Run the App
 ### 1. Setup and Installation
-1.  **Clone the Repository:**
+1.  **Clone the Repository**
 2.  **Install Dependencies:**
     ```bash
     # Using npm
@@ -19,7 +19,7 @@ Run the following command to copy the example file
 ```bash
 cp ./env/env.ts.example ./env/env.ts
 ```
-Then modify API_KEY with your key
+The app uses TMDB API so you'll have to generate an API KEY and then modify API_KEY with your key in ./env/env.ts
 
 ### 3. Running the Application
 
