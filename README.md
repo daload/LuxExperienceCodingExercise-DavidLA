@@ -62,3 +62,16 @@ After that you can run the app by doing:
 
 ## Asumptions
 I assumed that the API would return always all necesary data for populating screens and components, that includes posters or genres.
+
+# App Screens
+## Spotlight/Dashboard
+<img src="./readmeImages/dashboardIos.png" alt="Dashboard iOS" height="500"/>
+<img src="./readmeImages/dashboardAndroid.png" alt="Dashboard Android" height="500"/>
+
+## Movie Details
+<img src="./readmeImages/movieDetailsIos.png" alt="Movie Details iOS" height="500"/>
+<img src="./readmeImages/movieDetailsAndroid.png" alt="Movie Details Android" height="500"/>
+
+## Watchlist
+<img src="./readmeImages/watchlistIos.png" alt="Watchlist iOS" height="500"/>
+<img src="./readmeImages/watchlistAndroid.png" alt="Watchlist Android" height="500"/>
